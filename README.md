@@ -5,3 +5,5 @@ This is the first blog project made using the rails tutorial found [here](https:
 This repo is being used to create a blog or similar and experiment on the rails framework.
 
 
+
+# Blaa
